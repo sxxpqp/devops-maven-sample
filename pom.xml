@@ -29,7 +29,7 @@
     <repositories>
         <repository>
             <id>spring</id>
-            <url>https://maven.aliyun.com/repository/spring</url>
+            <url>http://139.198.122.166:8081/nexus/repository/maven-public/</url>
             <releases>
                 <enabled>true</enabled>
             </releases>
@@ -41,7 +41,7 @@
     <pluginRepositories>
         <pluginRepository>
             <id>spring</id>
-            <url>https://maven.aliyun.com/repository/spring</url>
+            <url>http://139.198.122.166:8081/nexus/repository/maven-public/</url>
             <releases>
                 <enabled>true</enabled>
             </releases>
